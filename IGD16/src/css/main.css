@@ -1,0 +1,15 @@
+.dropdown-menu{
+	padding: .5em;
+}
+.dropdown-menu .form-group{
+	margin-bottom: 0.5rem;
+}
+.dropdown-menu .form-check-input-label{
+	margin: 0;
+}
+#btn-register{
+	float: right;
+}
+#navbar{
+	background: rgba(0,0,0,0.5);
+}
